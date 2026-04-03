@@ -1,6 +1,19 @@
-# 💫 About Me:
-<br>Hey, I’m Nilay!<br><br>I’m a passionate, young developer and tech enthusiast, diving into the world of coding since I was 14. I love building things, experimenting with technology, and pushing my limits to learn more every day.<br><br>About Me<br>Coding Journey: Started exploring programming as a teen and quickly fell in love with creating functional projects rather than just learning syntax.<br>Backend & Web Development: Currently focused on web development and backend systems. I enjoy working with **Flask, HTML, CSS, JavaScript, and building projects from scratch.**<br>Machine Learning & AI: Hands-on experience with **PyTorch and TensorFlow.** I’ve built small AI models and GUIs, including a Tkinter app that predicts top-5 outputs with probabilities for any uploaded image — nothing too deep yet, but I’m constantly learning.<br>Full-Stack Enthusiasm: I’ve designed and deployed full-stack projects, connecting databases with web frontends, optimizing SEO, and managing project structure.<br>Problem-Solving & Logic: I enjoy designing algorithms and thinking through systems logically, even if I sometimes lean on references for exact syntax.<br>What I’m Up To<br>Learning advanced backend concepts and improving my AI/ML skills.<br>Experimenting with full-stack development and deploying projects that I can showcase.<br>Building projects that combine my interests in coding, AI, and real-world problem solving.<br>Fun Facts<br>I treat coding like a craft — careful, iterative, and creative.<br>Racing and high-speed driving is my other passion, and sometimes I apply the same precision and logic from racing to coding.<br>I’m constantly tinkering, learning, and pushing the boundaries of what I can create as a self-taught teen developer.
+# 💫 Hey, I’m Nilay!
 
+I’m a passionate, young developer and tech enthusiast, diving into the world of coding since I was 14. I love building things, experimenting with technology, and pushing my limits to learn more every day.
+
+---
+
+## About Me
+- **Coding Journey:** Started exploring programming as a teen and quickly fell in love with creating functional projects rather than just learning syntax.
+- **Backend & Web Development:** Currently focused on web development and backend systems. I enjoy working with **Flask, HTML, CSS, JavaScript, and building projects from scratch.**
+- **Machine Learning & AI:** Hands-on experience with **PyTorch and TensorFlow.** I’ve built small AI models and GUIs, including a Tkinter app that predicts top-5 outputs with probabilities for any uploaded image — nothing too deep yet, but I’m constantly learning.
+- **Full-Stack Enthusiasm:** I’ve designed and deployed full-stack projects, connecting databases with web frontends, optimizing SEO, and managing project structure.
+- **Problem-Solving & Logic:** I enjoy designing algorithms and thinking through systems logically, even if I sometimes lean on references for exact syntax.
+- **What I’m Up To:** Learning advanced backend concepts and improving my AI/ML skills.<br>Experimenting with full-stack development and deploying projects that I can showcase.<br>Building projects that combine my interests in coding, AI, and real-world problem solving.
+- **Fun Facts:** I treat coding like a craft — careful, iterative, and creative.<br>Racing and high-speed driving is my other passion, and sometimes I apply the same precision and logic from racing to coding.<br>I’m constantly tinkering, learning, and pushing the boundaries of what I can create as a self-taught teen developer.
+
+--- 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shrik_nilay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nilaykshrivastava@gmail.com) 
