@@ -1,17 +1,23 @@
 # 💫 Hey, I’m Nilay!
 
-I’m a passionate, young developer and tech enthusiast, diving into the world of coding since I was 14. I love building things, experimenting with technology, and pushing my limits to learn more every day.
+I’m a passionate, young developer and tech enthusiast, diving into the world of coding since I was 14. I love building things, experimenting with technology, and pushing my limits to learn more every day.<br><br>
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' alt='gif' height=50% width=50% >
+</p>
 
 ---
 
 ## About Me
-- **Coding Journey:** Started exploring programming as a teen and quickly fell in love with creating functional projects rather than just learning syntax.
-- **Backend & Web Development:** Currently focused on web development and backend systems. I enjoy working with **Flask, HTML, CSS, JavaScript, and building projects from scratch.**
+- **Coding Journey:** Started exploring programming as a teen and quickly fell in love with creating functional projects rather than just learning syntax.<br><br>
+- **Backend & Web Development:** Currently focused on web development and backend systems. I enjoy working with **Flask, HTML, CSS, JavaScript, and building projects from scratch.**<br><br>
 - **Machine Learning & AI:** Hands-on experience with **PyTorch and TensorFlow.** I’ve built small AI models and GUIs, including a Tkinter app that predicts top-5 outputs with probabilities for any uploaded image — nothing too deep yet, but I’m constantly learning.
+  
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 - **Full-Stack Enthusiasm:** I’ve designed and deployed full-stack projects, connecting databases with web frontends, optimizing SEO, and managing project structure.
-- **Problem-Solving & Logic:** I enjoy designing algorithms and thinking through systems logically, even if I sometimes lean on references for exact syntax.
-- **What I’m Up To:** Learning advanced backend concepts and improving my AI/ML skills.<br>Experimenting with full-stack development and deploying projects that I can showcase.<br>Building projects that combine my interests in coding, AI, and real-world problem solving.
-- **Fun Facts:** I treat coding like a craft — careful, iterative, and creative.<br>Racing and high-speed driving is my other passion, and sometimes I apply the same precision and logic from racing to coding.<br>I’m constantly tinkering, learning, and pushing the boundaries of what I can create as a self-taught teen developer.
+- **Problem-Solving & Logic:** I enjoy designing algorithms and thinking through systems logically, even if I sometimes lean on references for exact syntax.<br><br>
+- **What I’m Up To:** Learning advanced backend concepts and improving my AI/ML skills.<br>Experimenting with full-stack development and deploying projects that I can showcase.<br>Building projects that combine my interests in coding, AI, and real-world problem solving.<br><br>
+- **Fun Facts:** I treat coding like a craft — careful, iterative, and creative.<br>Racing and high-speed driving is my other passion, and sometimes I apply the same precision and logic from racing to coding.<br>I’m constantly tinkering, learning, and pushing the boundaries of what I can create as a self-taught teen developer.<br><br>
 
 --- 
 
