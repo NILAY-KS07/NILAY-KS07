@@ -12,7 +12,7 @@ I’m a passionate, young developer and tech enthusiast, diving into the world o
 - **Backend & Web Development:** Currently focused on web development and backend systems. I enjoy working with **Flask, HTML, CSS, JavaScript, and building projects from scratch.**<br><br>
 - **Machine Learning & AI:** Hands-on experience with **PyTorch and TensorFlow.** I’ve built small AI models and GUIs, including a Tkinter app that predicts top-5 outputs with probabilities for any uploaded image — nothing too deep yet, but I’m constantly learning.
   
-<img align="right" alt="gif" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
 
 - **Full-Stack Enthusiasm:** I’ve designed and deployed full-stack projects, connecting databases with web frontends, optimizing SEO, and managing project structure.<br><br>
 - **Problem-Solving & Logic:** I enjoy designing algorithms and thinking through systems logically, even if I sometimes lean on references for exact syntax.<br><br>
