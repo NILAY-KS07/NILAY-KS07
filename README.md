@@ -33,6 +33,32 @@ I’m a passionate, young developer and tech enthusiast, diving into the world o
 
 <br>
 
+# 🚀 Projects so far:
+## Full Stack Poll App (toughest and best):
+A real-time polling platform with  >>
+- User Authentication System (simplified)
+- 24-hour poll cycle
+- Push notifications (Firebase FCM)
+- Deployed on Render
+- Uses `sqlite` (free tier so ephermal DB)<br>
+- [View Repo.](https://github.com/NILAY-KS07/poll-app)<br>
+- [Check Out Page<br>(*Note! It may take upto a minute to start server and use app*)](https://poll-app-hpf4.onrender.com/)
+
+## Blockchain Implementation:
+A simplified implementation of blockchain system custom-built from scratch with >>
+- Block Structure with hashing
+- Proof-Of-Work mechanism
+- Mempool for pending transactions
+- File-based storage using pickle & JSON
+- Chain integrating validation (breaks on tampering)
+- All this with Auth and separate accounts for different users
+- [View Repo.](https://github.com/NILAY-KS07/BlockchainDemo-CryptoCurrency)
+
+## Storytellers:
+A simple, static webpage for learning deployment and SEO, its integrated with Ad Sense for understanding and working with real world monetization.
+- [View Repo.](https://github.com/NILAY-KS07/nilay-ks07.github.io)
+- [Check Out Page](https://nilay-ks07.github.io/)
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=NILAY-KS07&show_icons=true&theme=dark&count_private=true&hide_border=false)<br/>
