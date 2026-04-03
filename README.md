@@ -34,20 +34,20 @@ I’m a passionate, young developer and tech enthusiast, diving into the world o
 <br>
 
 # 🚀 Projects so far:
-## Full Stack Poll App (toughest and best):
+## Full Stack Poll App (Flagship):
 A real-time polling platform with  >>
 - User Authentication System (simplified)
 - 24-hour poll cycle
 - Push notifications (Firebase FCM)
 - Deployed on Render
-- Uses `sqlite` (free tier so epheremal DB)<br>
+- Uses `sqlite` (free tier so ephemeral DB)<br>
 - [View Repo.](https://github.com/NILAY-KS07/poll-app)<br>
-- [Check Out Page<br>(*Note! It may take upto a minute to start server and use app*)](https://poll-app-hpf4.onrender.com/)
+- [Check Out Page<br>(*Note! It may take upto a minute to start the server and the use app*)](https://poll-app-hpf4.onrender.com/)
 
 ---
 
 ## Blockchain Implementation:
-A simplified implementation of blockchain system custom-built from scratch with >>
+A simplified implementation of blockchain system, custom-built from scratch with >>
 - Block Structure with hashing
 - Proof-Of-Work mechanism
 - Mempool for pending transactions
