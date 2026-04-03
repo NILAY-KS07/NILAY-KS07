@@ -2,7 +2,7 @@
 
 I’m a passionate, young developer and tech enthusiast, diving into the world of coding since I was 14. I love building things, experimenting with technology, and pushing my limits to learn more every day.<br><br>
 <p align='center'>
-<img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' alt='gif' height=50% width=50% >
+<img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' alt='gif' height=70% width=70% >
 </p>
 
 ---
@@ -12,7 +12,7 @@ I’m a passionate, young developer and tech enthusiast, diving into the world o
 - **Backend & Web Development:** Currently focused on web development and backend systems. I enjoy working with **Flask, HTML, CSS, JavaScript, and building projects from scratch.**<br><br>
 - **Machine Learning & AI:** Hands-on experience with **PyTorch and TensorFlow.** I’ve built small AI models and GUIs, including a Tkinter app that predicts top-5 outputs with probabilities for any uploaded image — nothing too deep yet, but I’m constantly learning.
   
-<img align="right" alt="gif" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage">
 
 - **Full-Stack Enthusiasm:** I’ve designed and deployed full-stack projects, connecting databases with web frontends, optimizing SEO, and managing project structure.
 - **Problem-Solving & Logic:** I enjoy designing algorithms and thinking through systems logically, even if I sometimes lean on references for exact syntax.<br><br>
