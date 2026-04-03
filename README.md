@@ -14,7 +14,7 @@ I’m a passionate, young developer and tech enthusiast, diving into the world o
   
 <img align="right" alt="gif" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage">
 
-- **Full-Stack Enthusiasm:** I’ve designed and deployed full-stack projects, connecting databases with web frontends, optimizing SEO, and managing project structure.
+- **Full-Stack Enthusiasm:** I’ve designed and deployed full-stack projects, connecting databases with web frontends, optimizing SEO, and managing project structure.<br><br>
 - **Problem-Solving & Logic:** I enjoy designing algorithms and thinking through systems logically, even if I sometimes lean on references for exact syntax.<br><br>
 - **What I’m Up To:** Learning advanced backend concepts and improving my AI/ML skills.<br>Experimenting with full-stack development and deploying projects that I can showcase.<br>Building projects that combine my interests in coding, AI, and real-world problem solving.<br><br>
 - **Fun Facts:** I treat coding like a craft — careful, iterative, and creative.<br>Racing and high-speed driving is my other passion, and sometimes I apply the same precision and logic from racing to coding.<br>I’m constantly tinkering, learning, and pushing the boundaries of what I can create as a self-taught teen developer.<br><br>
