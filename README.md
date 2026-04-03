@@ -40,9 +40,11 @@ A real-time polling platform with  >>
 - 24-hour poll cycle
 - Push notifications (Firebase FCM)
 - Deployed on Render
-- Uses `sqlite` (free tier so ephermal DB)<br>
+- Uses `sqlite` (free tier so epheremal DB)<br>
 - [View Repo.](https://github.com/NILAY-KS07/poll-app)<br>
 - [Check Out Page<br>(*Note! It may take upto a minute to start server and use app*)](https://poll-app-hpf4.onrender.com/)
+
+---
 
 ## Blockchain Implementation:
 A simplified implementation of blockchain system custom-built from scratch with >>
@@ -54,10 +56,13 @@ A simplified implementation of blockchain system custom-built from scratch with 
 - All this with Auth and separate accounts for different users
 - [View Repo.](https://github.com/NILAY-KS07/BlockchainDemo-CryptoCurrency)
 
+---
+
 ## Storytellers:
 A simple, static webpage for learning deployment and SEO, its integrated with Ad Sense for understanding and working with real world monetization.
 - [View Repo.](https://github.com/NILAY-KS07/nilay-ks07.github.io)
 - [Check Out Page](https://nilay-ks07.github.io/)
+<br><br>
 
 # 📊 GitHub Stats
 
