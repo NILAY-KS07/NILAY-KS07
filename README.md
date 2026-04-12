@@ -62,7 +62,7 @@ A simplified implementation of blockchain system, custom-built from scratch with
 
 ---
 
-## Full Stack Poll App (Flagship):
+## Full Stack Poll App:
 A real-time polling platform with  >>
 - User Authentication System (simplified)
 - 24-hour poll cycle
