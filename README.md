@@ -46,7 +46,7 @@ A public, anonymous, real-time chat system with no login and no persistent stora
 **Key Idea:** Instead of solving infrastructure limitations, the system uses them as a feature — creating a naturally self-destructing chat environment.
 
 - [View Repo.](https://github.com/NILAY-KS07/PopChats)<br>
-- [Live Demo<br>(*Note: The server may take up to a minute to start due to free-tier hosting.*)](https://popchats.onrender.com)
+- [Live Demo](https://popchats.vercel.app)
 
 ---
 
